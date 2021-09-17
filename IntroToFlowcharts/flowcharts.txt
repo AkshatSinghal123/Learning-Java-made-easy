@@ -1,0 +1,8 @@
+Step 1: Analyze the problem
+Step 2: Think of the solution
+Step 3: Pen down Solution
+Step 4: Write code
+
+What is a Flowchart?
+
+Diagrammatic representation illustrating a solution to a given problem.
