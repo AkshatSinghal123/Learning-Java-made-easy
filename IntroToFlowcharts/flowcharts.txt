@@ -6,3 +6,5 @@ Step 4: Write code
 What is a Flowchart?
 
 Diagrammatic representation illustrating a solution to a given problem.
+
+Allows us to break down any process into smaller steps and display them in a visually pleasing way.
