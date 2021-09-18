@@ -1,0 +1,26 @@
+Step 1: Analyze the problem
+Step 2: Think of the solution
+Step 3: Pen down Solution
+Step 4: Write code
+
+What is a Flowchart?
+
+Diagrammatic representation illustrating a solution to a given problem.
+
+Allows us to break down any process into smaller steps and display them in a visually pleasing way.
+
+Advantages of Flowchart:
+
+Flowcharts are better way of communicating the logic of system.
+Flowcharts act as a guide for blueprint during program designed.
+Flowcharts helps in debugging process.
+With the help of flowcharts programs can be easily analyzed.
+It provides better documentation.
+Flowcharts serve as a good proper documentation.
+
+Disadvantages of Flowchart:
+
+It is difficult to draw flowchart for large and complex programs.
+In this their is no standard to determine the amount of detail.
+Difficult to reproduce the flowcharts.
+It is very difficult to modify the Flowchart.
